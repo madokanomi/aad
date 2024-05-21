@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+background-image: linear-gradient(to bottom, #010b1a, #003b53, #006f71, #00a464, #a0cf36);
+background-repeat: no-repeat;
+min-height:100%;
+background-attachment: fixed;
+    color:white;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+h4 {
+    margin-top: -10%;
+    font-size: 30px;
+}
+
+.btn {
+    margin-top: 140%;
+}
+
+button {
+    font-family: "Poetsen One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+background-color:transparent;
+  border-radius: 4px;
+  border-style: none;
+  box-sizing: border-box;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 25px;
+  line-height: 1.5;
+  max-width: none;
+  min-height: 44px;
+  min-width: 20px;
+  outline: none;
+  overflow: hidden;
+  padding: 9px 25px 9px;
+  position: relative;
+  text-align: center;
+  text-transform: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+button:hover,
+button:focus {
+  opacity: .75;
+}
+
+.btn1 {
+    left: -50px;
+}
+
+.btn2 {
+    left: 50px;
+}
+
+.bttn{
+    z-index:1000;
+position:absolute;
+padding-top:100%;
+width:20%;
+}
+
+p{
+     font-family: "Roboto Condensed", sans-serif;
+     font-weight:bold;
+     padding-top:100%;
+     color:white;
+}
